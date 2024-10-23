@@ -7,6 +7,7 @@ Tested up to: 6.3
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+More info website: https://webdesignerk.com/wordpress/plugins/el-slug-ya-lo-esta-utilizando-otro-termino-solucion/
 
 Este plugin permite listar y eliminar slugs antiguos de categorías y etiquetas que ya no se usan, eliminando redirecciones innecesarias y solucionando errores comunes de WordPress relacionados con los slugs antiguos.
 
